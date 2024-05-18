@@ -1,0 +1,6 @@
+========== INFO DE PC ===========
+SISTEMA OPERATIVO: Windows 10.0.19045
+ARQUITECTURA: AMD64
+PROCESADOR: Intel64 Family 6 Model 167 Stepping 1, GenuineIntel
+HOSTNAME: DESKTOP-P0TBI04
+IP: 192.168.56.1
